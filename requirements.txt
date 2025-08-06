@@ -1,0 +1,8 @@
+flask
+ultralytics
+opencv-python
+SpeechRecognition
+pydub
+ffmpeg-python
+torch
+torchvision
